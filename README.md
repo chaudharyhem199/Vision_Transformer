@@ -25,7 +25,7 @@ There are no pretrained weigths as of now in this repository. You can train on c
 
 ## Installation and steps to follow
 Please follow the below steps in order to install Vision_Transformer and train it on custom datasets :
-#### 1. pip install git+https://github.com/SalilBhatnagarDE/VisionTransformers.git 
+#### 1. pip install git
 
 #### 2. import Vision_Transformer
 
