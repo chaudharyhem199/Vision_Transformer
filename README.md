@@ -1,8 +1,6 @@
 # Vision_Transformer
-by Alexey Dosovitskiy\*†, Lucas Beyer\*, Alexander Kolesnikov\*, Dirk
-Weissenborn\*, Xiaohua Zhai\*, Thomas Unterthiner, Mostafa Dehghani, Matthias
-Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit and Neil Houlsby\*†.
-(\*) equal technical contribution, (†) equal advising.
+Vision Transformer (ViT) from Scratch
+This project implements a Vision Transformer (ViT) model from scratch in PyTorch. Inspired by the paper "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale" by Dosovitskiy et al., this project explores how transformers, originally developed for NLP tasks, can be adapted to image recognition.
 
 Vision Transformers are the state of the art methods for classification or object detection problems.
 
